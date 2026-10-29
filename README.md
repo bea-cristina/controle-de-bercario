@@ -3,5 +3,5 @@
 Dupla: Beatriz Cristina e Gabriella Vitoria
 
  Sobre esse projeto :
-O projeto que tem como objetivo - Ajudar creches a administrar berçários, mantendo a segurança e organização
+O projeto tem como objetivo - Ajudar creches a administrar berçários, mantendo a segurança e organização
 das creches.
