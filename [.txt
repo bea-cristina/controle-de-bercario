@@ -1,0 +1,2 @@
+> git remote rename origin upstream
+error: remote upstream already exists.
