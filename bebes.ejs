@@ -1,0 +1,18 @@
+<h1>Bebês cadastrados</h1>
+
+<% bebes.forEach((bebe) => { %>
+
+    <p>Nome: <%= bebe.nome %></p>
+    <p>Nascimento: <%= bebe.nascimento %></p>
+    <p>Responsável: <%= bebe.responsavel %></p>
+    <p>Sala: <%= bebe.sala %></p>
+
+    <hr>
+
+<% }) %>
+
+<a href="/cadastro">Cadastrar outro bebê</a>
+
+<br><br>
+
+<a href="/">Voltar</a>
